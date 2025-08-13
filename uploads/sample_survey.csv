@@ -1,0 +1,21 @@
+respondent_id,age,gender,education_level,income,employment_status,city,marital_status,target
+1,25,M,Bachelor,50000,Employed,Delhi,Single,1
+2,34,F,Master,62000,Employed,Mumbai,Married,0
+3,45,M,High School,58000,Self-employed,Kolkata,Married,1
+4,29,F,Bachelor,54000,Unemployed,Chennai,Single,0
+5,41,M,PhD,60000,Employed,Delhi,Married,1
+6,37,F,Master,52000,Employed,Mumbai,Single,0
+7,50,M,Bachelor,61000,Retired,Kolkata,Married,1
+8,28,F,High School,53000,Employed,Chennai,Single,0
+9,33,M,Master,59000,Employed,Delhi,Married,1
+10,40,F,Bachelor,55000,Self-employed,Mumbai,Married,0
+11,26,M,Bachelor,48000,Employed,Pune,Single,1
+12,55,F,High School,47000,Retired,Hyderabad,Married,0
+13,39,F,Master,63000,Employed,Bangalore,Single,1
+14,31,M,PhD,71000,Employed,Delhi,Married,1
+15,44,F,Bachelor,52000,Unemployed,Mumbai,Single,0
+16,38,M,Master,68000,Employed,Kolkata,Married,1
+17,29,F,Bachelor,49000,Self-employed,Chennai,Single,0
+18,47,M,High School,58000,Employed,Delhi,Married,1
+19,52,F,Master,60000,Employed,Mumbai,Married,1
+20,30,M,Bachelor,54000,Employed,Kolkata,Single,0

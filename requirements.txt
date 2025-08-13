@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Flask-Migrate
+mysql-connector-python
+pandas
+numpy
+scikit-learn
+transformers
+torch
+plotly
+matplotlib
+seaborn
+wordcloud
+textblob
+requests

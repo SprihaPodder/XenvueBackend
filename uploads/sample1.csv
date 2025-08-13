@@ -1,0 +1,11 @@
+Date,Category,Sub-Category,Value,Region,gender,age,Comments,target
+2025-01-01,Health,Vaccination,120,North,Male,18,Good coverage,0
+2025-01-01,Health,Vaccination,135,South,Female,26,Needs improvement,1
+2025-01-02,Education,Enrollment,200,East,Male,18,Steady increase,0
+2025-01-02,Education,Enrollment,210,West,Female,26,Stable,1
+2025-01-03,Employment,Unemployment Rate,7.5,North,Male,36,Rising,0
+2025-01-03,Employment,Unemployment Rate,6.8,South,Female,46,Falling,1
+2025-01-04,Health,Vaccination,140,East,Male,18,High rate,0
+2025-01-04,Education,Enrollment,220,West,Female,26,Positive trend,1
+2025-01-05,Employment,Unemployment Rate,7.0,North,Male,36,Moderate,0
+2025-01-05,Health,Vaccination,130,South,Female,26,Average,1
